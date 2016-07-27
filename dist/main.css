@@ -1,0 +1,34 @@
+#loginBtn {
+  color: pink;
+  margin-left: 0rem; }
+
+#loginForm {
+  margin-top: 13rem;
+  margin-left: 20rem;
+  height: 40vh;
+  width: 45%;
+  text-align: center;
+  background-color: pink; }
+
+#username {
+  height: 2rem;
+  width: 12rem;
+  margin-top: 5rem;
+  background-color: grey; }
+
+#password {
+  height: 2rem;
+  width: 12rem; }
+
+.CardPreview img {
+  height: 250px;
+  width: 130px;
+  padding-bottom: 54px;
+  right: 112px;
+  padding-right: 4px;
+  position: relative; }
+
+.cardLi {
+  padding-left: 17rem; }
+
+/*# sourceMappingURL=main.css.map */

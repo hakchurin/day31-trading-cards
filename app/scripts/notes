@@ -1,0 +1,13 @@
+
+
+
+/// create data
+// create 5 obj that are trading cards
+    // each having 5 properties
+        //? so how do i make a obj?... well like this {}, but what exactly does this mean? like {5unicorns}-- and one of those 5 unicorns have properties like blue hair, green eyes, sparkles???
+// create a nav that will go to each one of my trading cards (5)
+// nav that will create a new card
+// nav for login and sign up
+//when going to a specific trading card--put the specific data from that card into the dom (the trading card specific component)
+// when creating a new card have a form present(input field) that will allow us to upload a new card
+// login and sign up form (input field)
